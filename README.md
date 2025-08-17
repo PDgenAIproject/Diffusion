@@ -1,5 +1,7 @@
 # keratopathyAI_project
 
+## Generation part
+
 ### Requirements
 
 create environment
